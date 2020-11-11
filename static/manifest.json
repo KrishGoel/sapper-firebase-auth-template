@@ -1,7 +1,7 @@
 {
 	"background_color": "#ffffff",
 	"theme_color": "#333333",
-	"name": "Svelte and Sapper Boilerplate",
+	"name": "sapper-firebase-auth-template",
 	"short_name": "",
 	"display": "minimal-ui",
 	"start_url": "/",

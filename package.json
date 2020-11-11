@@ -1,6 +1,6 @@
 {
-  "name": "sapperAppBoilerplate",
-  "description": "Boilerplate for a Svelte + Sapper App",
+  "name": "sapper-firebase-auth-template",
+  "description": "Boilerplate for a Svelte + Sapper + Firebase Auth App",
   "version": "0.0.1",
   "scripts": {
     "dev": "sapper dev",
